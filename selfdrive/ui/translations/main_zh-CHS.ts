@@ -559,8 +559,8 @@ Please use caution when using this feature. Only use the blinker when traffic an
         <translation>导航</translation>
     </message>
     <message>
-        <source>Manage at connect.comma.ai</source>
-        <translation>请在 connect.comma.ai 上管理</translation>
+        <source>Manage at map.guoke.one</source>
+        <translation>请在 map.guoke.one 上管理</translation>
     </message>
 </context>
 <context>
